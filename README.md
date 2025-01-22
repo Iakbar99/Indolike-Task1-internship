@@ -14,10 +14,12 @@ The aim is to search insights based on different factors, trends ,distributions,
 * Comprehensive data cleaning and preprocessing.
 * Visualizations to explore relationships and trends in the data.
 * Statistical analysis to summarize key metrics.
-* Use of Business intelligen.
+* Use of Business intelligence
 
 ###  Requirements
-* Jupyter Notebook
-* Python 3.x
-* Required libraries: Pandas, NumPy, Matplotlib, Seaborn, etc.
+* MS EXcel
+* Microsoft Power BI
+* Data Set: Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
 # SnapShorts of project 
+![sale dashboard](https://github.com/user-attachments/assets/29005fa4-5bac-4122-8b6e-d208337066cd)
