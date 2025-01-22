@@ -1,8 +1,8 @@
 Name: Syed Akbar <br>
 company: IndoLike <br>
-ID:217251158 <br>
-Domain:Data Analytics <br>
-Duration:January2025 To February 2025 <br>
+ID: 217251158 <br>
+Domain :Data Analytics <br>
+Duration: January2025 To February 2025 <br>
 
 ## Overview of the Project 
 ### Project: Sale Trend Analysis (using Power BI ) on Sample-Superstore data 
@@ -19,7 +19,7 @@ The aim is to search insights based on different factors, trends ,distributions,
 ###  Requirements
 * MS EXcel
 * Microsoft Power BI
-* Data Set: Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+* Data Set:https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 # SnapShorts of project 
 ![sale dashboard](https://github.com/user-attachments/assets/29005fa4-5bac-4122-8b6e-d208337066cd)
